@@ -1,0 +1,2 @@
+images: 0/6
+video: 0/1
